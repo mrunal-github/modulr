@@ -1,0 +1,531 @@
+2021-10-13 12:10:389 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:55 INFO  LoginPage :27 - Entering UserName [[ChromeDriver: chrome on WINDOWS (c5d012977321ed1d3f4d87039b0edc41)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:181 INFO  LoginPage :31 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (c5d012977321ed1d3f4d87039b0edc41)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:311 INFO  LoginPage :35 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (c5d012977321ed1d3f4d87039b0edc41)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:524 INFO  LoginPage :39 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class = 'color-white text-body-medium top-margin-2 ng-star-inserted']'
+2021-10-13 12:10:625 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:537 INFO  ResetAcessPage :19 - Clicking on forgotten password linl [[ChromeDriver: chrome on WINDOWS (9ae6d5634e791c7434fcb1f2ccc7cf83)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-13 12:10:561 INFO  ResetAcessPage :22 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (9ae6d5634e791c7434fcb1f2ccc7cf83)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-13 12:10:662 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:654 INFO  LoginPage :27 - Entering UserName [[ChromeDriver: chrome on WINDOWS (47013b5a5ede36937130931c4513e57b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:774 INFO  LoginPage :31 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (47013b5a5ede36937130931c4513e57b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:907 INFO  LoginPage :35 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (47013b5a5ede36937130931c4513e57b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:96 INFO  LoginPage :39 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class = 'color-white text-body-medium top-margin-2 ng-star-inserted']'
+2021-10-13 12:10:197 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:671 INFO  ResetAcessPage :19 - Clicking on forgotten password linl [[ChromeDriver: chrome on WINDOWS (8e09e8a1b8c5d9fe48f65ff810a6a19c)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-13 12:10:708 INFO  ResetAcessPage :22 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (8e09e8a1b8c5d9fe48f65ff810a6a19c)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-13 12:10:588 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:343 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (c4ff76dcf88d4b6d884fcdd882763678)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:473 INFO  LoginPage :33 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (c4ff76dcf88d4b6d884fcdd882763678)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:612 INFO  LoginPage :37 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (c4ff76dcf88d4b6d884fcdd882763678)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:813 INFO  LoginPage :41 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class = 'color-white text-body-medium top-margin-2 ng-star-inserted']'
+2021-10-13 12:10:954 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:921 INFO  LoginPage :49 - Clicking on forgotten password link [[ChromeDriver: chrome on WINDOWS (732f2c22cbe5859852ec5738356a3a33)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-13 12:10:945 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (732f2c22cbe5859852ec5738356a3a33)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-13 12:10:425 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:422 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (3144a095b13e8504c03a6e05a98af199)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:534 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (3144a095b13e8504c03a6e05a98af199)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:653 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (3144a095b13e8504c03a6e05a98af199)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:797 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (3144a095b13e8504c03a6e05a98af199)] -> xpath: //div[@data-qa = 'signin-div-error-display']]
+2021-10-13 12:10:853 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:394 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:269 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (66e5e26bde2e8e140ab9de61954feee8)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:381 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (66e5e26bde2e8e140ab9de61954feee8)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:497 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (66e5e26bde2e8e140ab9de61954feee8)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:633 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (66e5e26bde2e8e140ab9de61954feee8)] -> xpath: //div[@data-qa = 'signin-div-error-display']]
+2021-10-13 12:10:702 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:986 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:936 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (2d93dae3ceb2bfe063d2ecd7af33e159)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:71 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (2d93dae3ceb2bfe063d2ecd7af33e159)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:182 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (2d93dae3ceb2bfe063d2ecd7af33e159)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:318 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2d93dae3ceb2bfe063d2ecd7af33e159)] -> xpath: //div[@data-qa = 'signin-div-error-display']]
+2021-10-13 12:10:367 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:88 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:800 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (7b0cb06732fe1a7fce6d1ed748b87ca5)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:911 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (7b0cb06732fe1a7fce6d1ed748b87ca5)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:35 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (7b0cb06732fe1a7fce6d1ed748b87ca5)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:171 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:921 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:992 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (39f7b076de786cd605dbf6737ac3cf49)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:129 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (39f7b076de786cd605dbf6737ac3cf49)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:244 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (39f7b076de786cd605dbf6737ac3cf49)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:372 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (39f7b076de786cd605dbf6737ac3cf49)] -> xpath: //div[@data-qa = 'signin-div-error-display']]
+2021-10-13 12:10:443 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:856 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 12:10:658 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (a61d3c10b0b8b06dffdd19031d2f2d9a)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 12:10:773 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (a61d3c10b0b8b06dffdd19031d2f2d9a)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 12:10:889 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (a61d3c10b0b8b06dffdd19031d2f2d9a)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 12:10:25 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (a61d3c10b0b8b06dffdd19031d2f2d9a)] -> xpath: //div[@ data-qa = 'error-message-div-display']]
+2021-10-13 12:10:106 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:612 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:779 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (6e61aa43f681a1b7f22869a948c55755)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 19:10:898 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (6e61aa43f681a1b7f22869a948c55755)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 19:10:10 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (6e61aa43f681a1b7f22869a948c55755)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 19:10:143 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (6e61aa43f681a1b7f22869a948c55755)] -> xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']]
+2021-10-13 19:10:926 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:450 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (5daf18c932fadb417d99d0dc2499e204)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 19:10:605 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (5daf18c932fadb417d99d0dc2499e204)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 19:10:709 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (5daf18c932fadb417d99d0dc2499e204)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 19:10:834 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (5daf18c932fadb417d99d0dc2499e204)] -> xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']]
+2021-10-13 19:10:628 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:105 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (fb57bc6924a618cc643a75d4d0d5bb98)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 19:10:255 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (fb57bc6924a618cc643a75d4d0d5bb98)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 19:10:392 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (fb57bc6924a618cc643a75d4d0d5bb98)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 19:10:621 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 19:10:585 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:243 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (042627f948d917a85f7e46ee985021ff)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 19:10:355 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (042627f948d917a85f7e46ee985021ff)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 19:10:501 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (042627f948d917a85f7e46ee985021ff)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 19:10:663 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 19:10:651 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 19:10:476 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (b14d89d4356056908c84ffd285b18697)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 19:10:641 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (b14d89d4356056908c84ffd285b18697)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 19:10:796 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (b14d89d4356056908c84ffd285b18697)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 19:10:992 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 19:10:861 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:305 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:192 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (0021af3374e20ad2ebf5ab3796aa33e4)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 20:10:306 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (0021af3374e20ad2ebf5ab3796aa33e4)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 20:10:414 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (0021af3374e20ad2ebf5ab3796aa33e4)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 20:10:559 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (0021af3374e20ad2ebf5ab3796aa33e4)] -> xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']]
+2021-10-13 20:10:351 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:801 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (85dd747bfd670d84f8146c2912b7c9c8)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 20:10:977 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (85dd747bfd670d84f8146c2912b7c9c8)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 20:10:86 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (85dd747bfd670d84f8146c2912b7c9c8)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 20:10:217 INFO  LoginPage :44 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (85dd747bfd670d84f8146c2912b7c9c8)] -> xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']]
+2021-10-13 20:10:984 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:707 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (6bac4c050f0773c66ad19ee2b6c53b55)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 20:10:872 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (6bac4c050f0773c66ad19ee2b6c53b55)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 20:10:11 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (6bac4c050f0773c66ad19ee2b6c53b55)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 20:10:181 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 20:10:322 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:927 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (103253c73d5f21f434360f93bcd3a5cf)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 20:10:42 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (103253c73d5f21f434360f93bcd3a5cf)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 20:10:182 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (103253c73d5f21f434360f93bcd3a5cf)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 20:10:344 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 20:10:286 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:995 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (9e0278d7beab1df8cec476c9617cbac9)] -> xpath: //input[@id = 'username-inp']]
+2021-10-13 20:10:129 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (9e0278d7beab1df8cec476c9617cbac9)] -> xpath: //input[@id = 'password-inp']]
+2021-10-13 20:10:285 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (9e0278d7beab1df8cec476c9617cbac9)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-13 20:10:461 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //app-error-message[@data-qa='signin-inp-password-error']//div[@class='alert alert-danger ng-star-inserted'][normalize-space()='This field is required']'
+2021-10-13 20:10:471 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-13 20:10:835 INFO  LoginPage :53 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (8ee11737e89a24630fc8d0256de93861)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-13 20:10:974 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (8ee11737e89a24630fc8d0256de93861)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 12:10:346 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:601 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (37081ec75a55367bf24d6e6c133eeeb9)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:720 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (37081ec75a55367bf24d6e6c133eeeb9)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:822 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (37081ec75a55367bf24d6e6c133eeeb9)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:61 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-qa = 'error-message-div-display']/parent::app-error-message[@data-qa = 'alert alert-danger ng-star-inserted']'
+2021-10-14 12:10:159 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:92 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (c52ec0c0680ebae24f0ed1188372fbe8)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:228 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (c52ec0c0680ebae24f0ed1188372fbe8)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:344 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (c52ec0c0680ebae24f0ed1188372fbe8)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:485 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-qa = 'error-message-div-display']/parent::app-error-message[@data-qa = 'alert alert-danger ng-star-inserted']'
+2021-10-14 12:10:538 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:316 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (1ad024e486e09411bfea8a11779a9e62)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:458 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (1ad024e486e09411bfea8a11779a9e62)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:587 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (1ad024e486e09411bfea8a11779a9e62)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:740 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-qa = 'error-message-div-display']/parent::app-error-message[@data-qa = 'alert alert-danger ng-star-inserted']'
+2021-10-14 12:10:838 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:873 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (adcc0a2a86db01c47b2dcbdb99fb092f)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:994 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (adcc0a2a86db01c47b2dcbdb99fb092f)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:128 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (adcc0a2a86db01c47b2dcbdb99fb092f)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:265 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-qa = 'error-message-div-display']/parent::app-error-message[@data-qa = 'alert alert-danger ng-star-inserted']'
+2021-10-14 12:10:215 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:29 INFO  LoginPage :29 - Entering UserName [[ChromeDriver: chrome on WINDOWS (02e722330ab854236bc5e9634ad60e33)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:168 INFO  LoginPage :34 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (02e722330ab854236bc5e9634ad60e33)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:308 INFO  LoginPage :39 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (02e722330ab854236bc5e9634ad60e33)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:441 INFO  LoginPage :44 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-qa = 'error-message-div-display']/parent::app-error-message[@data-qa = 'alert alert-danger ng-star-inserted']'
+2021-10-14 12:10:349 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:366 INFO  LoginPage :53 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (c9c783b67ce2ba82e147edf934fd6b32)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 12:10:511 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (c9c783b67ce2ba82e147edf934fd6b32)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 12:10:640 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:210 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (92e8b4638c07b3af76ba68ef3c8607c5)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:353 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (92e8b4638c07b3af76ba68ef3c8607c5)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:490 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (92e8b4638c07b3af76ba68ef3c8607c5)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:661 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (92e8b4638c07b3af76ba68ef3c8607c5)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:570 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:691 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (da444a3dcec60811de3ab66e82430a23)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:895 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (da444a3dcec60811de3ab66e82430a23)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:41 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (da444a3dcec60811de3ab66e82430a23)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:201 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (da444a3dcec60811de3ab66e82430a23)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:129 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:764 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (7c98b71e197137488cbf90b5ee840c61)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:968 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (7c98b71e197137488cbf90b5ee840c61)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:128 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (7c98b71e197137488cbf90b5ee840c61)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:370 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:968 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:889 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (0b81ada114c6f99893cb5e9bdcea6972)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:23 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (0b81ada114c6f99893cb5e9bdcea6972)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:196 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (0b81ada114c6f99893cb5e9bdcea6972)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:389 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:442 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:537 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (131f8146546ef16b4ea56a72bf3dd1e0)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:718 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (131f8146546ef16b4ea56a72bf3dd1e0)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:918 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (131f8146546ef16b4ea56a72bf3dd1e0)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:99 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:216 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:949 INFO  LoginPage :55 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (ba143c3bfcdfca983f83f38835978e4f)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 12:10:154 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (ba143c3bfcdfca983f83f38835978e4f)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 12:10:354 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:770 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:921 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:62 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:258 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:345 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:415 INFO  LoginPage :51 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 12:10:474 INFO  LoginPage :55 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (9ff4278835a0fcefc137acd9b998080a)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 12:10:958 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:403 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:634 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:782 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:959 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:45 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:123 INFO  LoginPage :51 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (2f3e11b8fa2fd46e37a0d8e0f37f63b9)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 12:10:489 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:258 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (0b25662f0e28571b2ee78ee25bda09f6)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:501 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (0b25662f0e28571b2ee78ee25bda09f6)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:695 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (0b25662f0e28571b2ee78ee25bda09f6)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:927 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:214 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:805 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (d08c2ece2b9b3d1bb9171707f7bca2e8)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:950 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (d08c2ece2b9b3d1bb9171707f7bca2e8)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:136 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (d08c2ece2b9b3d1bb9171707f7bca2e8)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:375 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:665 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:142 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (5787f7d22ff06b60fa1b1abd72794236)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:341 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (5787f7d22ff06b60fa1b1abd72794236)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:575 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (5787f7d22ff06b60fa1b1abd72794236)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:770 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:390 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:221 INFO  LoginPage :59 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (bb293adc8ad63843131191721284382b)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 12:10:408 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (bb293adc8ad63843131191721284382b)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 12:10:614 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:868 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (3c536a47e3d8a1d70d8c77d963237cf3)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:41 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (3c536a47e3d8a1d70d8c77d963237cf3)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:173 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (3c536a47e3d8a1d70d8c77d963237cf3)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:364 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (3c536a47e3d8a1d70d8c77d963237cf3)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:422 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:806 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (10395c4943946a59c3b554b81cbc3347)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:27 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (10395c4943946a59c3b554b81cbc3347)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:157 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (10395c4943946a59c3b554b81cbc3347)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:334 INFO  LoginPage :46 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (10395c4943946a59c3b554b81cbc3347)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 12:10:380 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 12:10:948 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (c22486fbf219acc3a528b8241955b739)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 12:10:175 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (c22486fbf219acc3a528b8241955b739)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 12:10:345 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (c22486fbf219acc3a528b8241955b739)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 12:10:597 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 12:10:983 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:562 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (ed193477c1a8e67a3b6b100ab6152a7b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:712 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (ed193477c1a8e67a3b6b100ab6152a7b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:896 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (ed193477c1a8e67a3b6b100ab6152a7b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:143 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:405 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:862 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (8d776081f95c27a8b35798f50a1e1c9a)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:54 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (8d776081f95c27a8b35798f50a1e1c9a)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:253 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (8d776081f95c27a8b35798f50a1e1c9a)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:482 INFO  LoginPage :46 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:751 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:221 INFO  LoginPage :59 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (818ee4fc416293b280138fbfba74aea6)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:411 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (818ee4fc416293b280138fbfba74aea6)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:919 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:118 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (287414ba503c7169b8511421fc263050)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:297 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (287414ba503c7169b8511421fc263050)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:450 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (287414ba503c7169b8511421fc263050)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:634 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (287414ba503c7169b8511421fc263050)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:732 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:308 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (05fddaf46c3713e85e83b29369e5b75b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:582 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (05fddaf46c3713e85e83b29369e5b75b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:755 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (05fddaf46c3713e85e83b29369e5b75b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:937 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (05fddaf46c3713e85e83b29369e5b75b)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:991 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:326 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (8511bd09bb0459201798544c0fa8e2f6)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:539 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (8511bd09bb0459201798544c0fa8e2f6)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:693 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (8511bd09bb0459201798544c0fa8e2f6)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:873 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:309 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:809 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (63a5bc94f63735368a1face52abacbfc)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:950 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (63a5bc94f63735368a1face52abacbfc)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:130 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (63a5bc94f63735368a1face52abacbfc)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:349 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:738 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:376 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (67f311b2285cfeb0857b1c866b515d47)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:563 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (67f311b2285cfeb0857b1c866b515d47)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:767 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (67f311b2285cfeb0857b1c866b515d47)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:919 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:60 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:569 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (bfbae1a63da63fe2c860ae630da1b3f7)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:791 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (bfbae1a63da63fe2c860ae630da1b3f7)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:274 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:305 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:935 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:89 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:242 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:429 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:524 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:620 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (952774e8486c10c502a4e0bac60d89cc)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 13:10:149 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:646 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (e8bdcf3d704c1b0abe2acd24cf7d9184)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:872 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (e8bdcf3d704c1b0abe2acd24cf7d9184)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:14 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (e8bdcf3d704c1b0abe2acd24cf7d9184)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:182 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (e8bdcf3d704c1b0abe2acd24cf7d9184)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:263 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (e8bdcf3d704c1b0abe2acd24cf7d9184)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:681 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:272 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (1c91f3c0c7d85e65abc727b3e0fbeb5f)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:537 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (1c91f3c0c7d85e65abc727b3e0fbeb5f)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:734 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (1c91f3c0c7d85e65abc727b3e0fbeb5f)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:18 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:475 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:46 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (6b3b51e85a7164de9c7f53e102999ece)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:219 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (6b3b51e85a7164de9c7f53e102999ece)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:479 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (6b3b51e85a7164de9c7f53e102999ece)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:692 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:60 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:565 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (79cf2d71f6cbe5138e08988ba6fd249b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:770 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (79cf2d71f6cbe5138e08988ba6fd249b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:973 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (79cf2d71f6cbe5138e08988ba6fd249b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:159 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:461 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:962 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (e7b4491e21e03abb28b3a7baea3a336d)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:178 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (e7b4491e21e03abb28b3a7baea3a336d)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:989 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:396 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:584 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:719 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:914 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:997 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:77 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (e384a9bfab859b98a1e235f71c589e2e)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 13:10:511 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:05 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (e9462c4262cc83a286872b35959595f0)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:207 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (e9462c4262cc83a286872b35959595f0)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:360 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (e9462c4262cc83a286872b35959595f0)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:584 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (e9462c4262cc83a286872b35959595f0)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:665 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (e9462c4262cc83a286872b35959595f0)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:01 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:379 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (28a4945661a6875d690116288d1b2179)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:627 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (28a4945661a6875d690116288d1b2179)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:839 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (28a4945661a6875d690116288d1b2179)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:113 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:483 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:32 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (7c16a18bf612f589a2b88cf9bb84df9d)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:182 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (7c16a18bf612f589a2b88cf9bb84df9d)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:390 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (7c16a18bf612f589a2b88cf9bb84df9d)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:614 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:961 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:533 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (d6714b84a3096b78a61d00632c0a6129)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:739 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (d6714b84a3096b78a61d00632c0a6129)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:980 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (d6714b84a3096b78a61d00632c0a6129)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:156 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:430 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:825 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (414baf333df768f474884e1197a7b956)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:24 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (414baf333df768f474884e1197a7b956)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:207 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:182 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (6ee460a6e153a67a7ec103e9ef103257)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:354 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (6ee460a6e153a67a7ec103e9ef103257)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:517 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (6ee460a6e153a67a7ec103e9ef103257)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:685 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (6ee460a6e153a67a7ec103e9ef103257)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:774 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:413 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (078b562e2407d3f4b5200c30fa2fb8ac)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:632 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (078b562e2407d3f4b5200c30fa2fb8ac)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:779 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (078b562e2407d3f4b5200c30fa2fb8ac)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:960 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (078b562e2407d3f4b5200c30fa2fb8ac)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:24 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:435 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (d9731b6e44d71a1943f507ce6ccaebb2)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:672 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (d9731b6e44d71a1943f507ce6ccaebb2)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:861 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (d9731b6e44d71a1943f507ce6ccaebb2)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:63 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:477 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:880 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (49c555a09428901dd25826230f0f69fc)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:27 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (49c555a09428901dd25826230f0f69fc)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:222 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (49c555a09428901dd25826230f0f69fc)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:408 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:776 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:255 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (03c54f2d83952bed0aca3c64b1f7d626)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:484 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (03c54f2d83952bed0aca3c64b1f7d626)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:704 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (03c54f2d83952bed0aca3c64b1f7d626)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:913 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:302 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:43 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (65820f603ac2b0be23a6e263ac341273)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:252 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (65820f603ac2b0be23a6e263ac341273)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:311 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:427 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (95426137c22af0eaab8252ddd401f76a)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:593 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (95426137c22af0eaab8252ddd401f76a)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:728 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (95426137c22af0eaab8252ddd401f76a)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:913 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (95426137c22af0eaab8252ddd401f76a)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:974 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:621 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (612ada84b3c330a14ff4bd49a603abf1)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:861 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (612ada84b3c330a14ff4bd49a603abf1)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:02 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (612ada84b3c330a14ff4bd49a603abf1)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:193 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (612ada84b3c330a14ff4bd49a603abf1)] -> xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']]
+2021-10-14 13:10:294 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:865 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (1bc100d72d92f04458b736ab5b6c962e)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:89 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (1bc100d72d92f04458b736ab5b6c962e)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:252 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (1bc100d72d92f04458b736ab5b6c962e)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:472 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:23 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:477 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (d26e41b10c1bbbcdd2ad1c0ae0e3695e)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:618 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (d26e41b10c1bbbcdd2ad1c0ae0e3695e)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:838 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (d26e41b10c1bbbcdd2ad1c0ae0e3695e)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:30 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:570 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:302 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (c8b3d78a0e23e46234744492b2b114fe)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:513 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (c8b3d78a0e23e46234744492b2b114fe)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:716 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (c8b3d78a0e23e46234744492b2b114fe)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:934 INFO  LoginPage :47 - Getting Error Message Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='form-group top-margin-6']//child::app-validated-input/child::div/child::app-error-message[@class='full-width ng-star-inserted']/following::div[text()=' This field is required ']'
+2021-10-14 13:10:157 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:660 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (75979c900d1d43bb27fdf4f6c0f460d2)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:861 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (75979c900d1d43bb27fdf4f6c0f460d2)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:580 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:278 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (42efa66926319e3535d2dedaf07404a4)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:467 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (42efa66926319e3535d2dedaf07404a4)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:621 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (42efa66926319e3535d2dedaf07404a4)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:801 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (42efa66926319e3535d2dedaf07404a4)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:911 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:516 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (0ba65bc210827a6a05ad48f13edc06c2)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:761 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (0ba65bc210827a6a05ad48f13edc06c2)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:887 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (0ba65bc210827a6a05ad48f13edc06c2)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:76 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (0ba65bc210827a6a05ad48f13edc06c2)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:975 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:744 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (a5de48c10deb355e8e8b7e693eba96bd)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:967 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (a5de48c10deb355e8e8b7e693eba96bd)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:139 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (a5de48c10deb355e8e8b7e693eba96bd)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:305 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (a5de48c10deb355e8e8b7e693eba96bd)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:140 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:816 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (8ac229eb9494280e2a27b7c324c2cbfb)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:963 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (8ac229eb9494280e2a27b7c324c2cbfb)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:154 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (8ac229eb9494280e2a27b7c324c2cbfb)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:344 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (8ac229eb9494280e2a27b7c324c2cbfb)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:428 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:127 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (8331d61b9e0b1e43a721689a69bf795d)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:312 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (8331d61b9e0b1e43a721689a69bf795d)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:535 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (8331d61b9e0b1e43a721689a69bf795d)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:719 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (8331d61b9e0b1e43a721689a69bf795d)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:144 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:573 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (79f2342d6e41dddb39a211559e1be06c)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:795 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (79f2342d6e41dddb39a211559e1be06c)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 13:10:872 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:183 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:340 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:474 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:670 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:766 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 13:10:865 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (033b0bcfe06d2d33d686428fd484d648)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 13:10:395 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:894 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (f82d31db8fbcacc5972b9ab75e1f8027)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:126 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (f82d31db8fbcacc5972b9ab75e1f8027)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:264 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (f82d31db8fbcacc5972b9ab75e1f8027)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:434 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (f82d31db8fbcacc5972b9ab75e1f8027)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:255 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:51 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (305ef9e37bb6a7e8afbaef12dcab6f54)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:262 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (305ef9e37bb6a7e8afbaef12dcab6f54)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:455 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (305ef9e37bb6a7e8afbaef12dcab6f54)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:629 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (305ef9e37bb6a7e8afbaef12dcab6f54)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:32 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:691 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:858 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:76 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:277 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:385 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 13:10:451 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (bf7f2ac1231db458ea59fc2580573c4b)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 13:10:906 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:304 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (3ed3f83a4a6cb1eb780f590904e63f6b)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 13:10:517 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (3ed3f83a4a6cb1eb780f590904e63f6b)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 13:10:762 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (3ed3f83a4a6cb1eb780f590904e63f6b)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 13:10:916 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (3ed3f83a4a6cb1eb780f590904e63f6b)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 13:10:352 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 13:10:905 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (1b2331ed274b83419f621c4bbcb3a081)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 13:10:117 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (1b2331ed274b83419f621c4bbcb3a081)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 14:10:888 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:407 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:612 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:786 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:00 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:81 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:127 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (7020985c5843e6568406793c23166e1f)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 14:10:875 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:608 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (23856a5308d7e2bce36485818ad01762)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:838 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (23856a5308d7e2bce36485818ad01762)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:09 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (23856a5308d7e2bce36485818ad01762)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:180 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (23856a5308d7e2bce36485818ad01762)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:748 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:456 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:636 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:861 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:53 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:144 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:197 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (77acbbd0d94b436217af9aa4bb7246d6)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 14:10:554 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:163 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (7c67fd99954fc7c60dc1e401381dc490)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 14:10:397 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (7c67fd99954fc7c60dc1e401381dc490)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 14:10:338 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:744 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (9188a3cb057f8beab4b323424823d8a5)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:916 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (9188a3cb057f8beab4b323424823d8a5)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:69 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (9188a3cb057f8beab4b323424823d8a5)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:264 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (9188a3cb057f8beab4b323424823d8a5)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:348 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (9188a3cb057f8beab4b323424823d8a5)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:434 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:176 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (28d5947276ad2ae43b3cd9f904366f9e)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:408 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (28d5947276ad2ae43b3cd9f904366f9e)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:565 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (28d5947276ad2ae43b3cd9f904366f9e)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:741 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (28d5947276ad2ae43b3cd9f904366f9e)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:227 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:940 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (7f7fb166e8f42408b2298ccb13d0cf88)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:95 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (7f7fb166e8f42408b2298ccb13d0cf88)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:309 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (7f7fb166e8f42408b2298ccb13d0cf88)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:514 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (7f7fb166e8f42408b2298ccb13d0cf88)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:618 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (7f7fb166e8f42408b2298ccb13d0cf88)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:646 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:45 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (c2efd0bfab353466f96a7bb20221f4a1)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 14:10:271 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (c2efd0bfab353466f96a7bb20221f4a1)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 14:10:766 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:07 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (5eb9cf1407e6262e4953bbd756691239)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:162 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (5eb9cf1407e6262e4953bbd756691239)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:314 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (5eb9cf1407e6262e4953bbd756691239)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:514 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (5eb9cf1407e6262e4953bbd756691239)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:603 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (5eb9cf1407e6262e4953bbd756691239)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:640 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:302 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (2988772aefa59c3eae5c2849d57f9d56)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:547 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (2988772aefa59c3eae5c2849d57f9d56)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:707 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (2988772aefa59c3eae5c2849d57f9d56)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:883 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (2988772aefa59c3eae5c2849d57f9d56)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:755 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:333 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (6ac0b9b0594d3e2c669561d51556f73d)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:511 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (6ac0b9b0594d3e2c669561d51556f73d)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:717 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (6ac0b9b0594d3e2c669561d51556f73d)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:916 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (6ac0b9b0594d3e2c669561d51556f73d)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:04 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (6ac0b9b0594d3e2c669561d51556f73d)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:54 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:765 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (75234b6f896266a5617e5090ce464705)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 14:10:984 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (75234b6f896266a5617e5090ce464705)] -> xpath: //p[@id = 'signInHeading']]
+2021-10-14 14:10:947 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:979 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:133 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:285 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:502 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:600 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:669 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (37f2cc5f6fb8441398b722f61bc0c21f)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 14:10:107 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:666 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (a6e62089d60c8356a167d0d61d97ca80)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:890 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (a6e62089d60c8356a167d0d61d97ca80)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:15 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (a6e62089d60c8356a167d0d61d97ca80)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:196 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (a6e62089d60c8356a167d0d61d97ca80)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:660 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:195 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (8cb3f5e4f0d9fdd3214a81c18d96ad7d)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:483 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (8cb3f5e4f0d9fdd3214a81c18d96ad7d)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:683 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (8cb3f5e4f0d9fdd3214a81c18d96ad7d)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:850 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (8cb3f5e4f0d9fdd3214a81c18d96ad7d)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:247 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:801 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:953 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:157 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:460 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:536 INFO  LoginPage :52 - Getting Adequate Error Message[[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //body[1]/app-root[1]/app-signin[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/app-validated-input[1]/div[1]/app-error-message[1]/div[1]]
+2021-10-14 14:10:595 INFO  LoginPage :56 - Getting Dynamic Message[[ChromeDriver: chrome on WINDOWS (ff809e795b91cacf1db1a9ad932542b7)] -> xpath: //div[@class = 'alert alert-danger']]
+2021-10-14 14:10:954 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:427 INFO  LoginPage :31 - Entering UserName [[ChromeDriver: chrome on WINDOWS (47c4d780a40e4c76ccef42e65398ef52)] -> xpath: //input[@id = 'username-inp']]
+2021-10-14 14:10:642 INFO  LoginPage :36 - Entering PassWord[[ChromeDriver: chrome on WINDOWS (47c4d780a40e4c76ccef42e65398ef52)] -> xpath: //input[@id = 'password-inp']]
+2021-10-14 14:10:882 INFO  LoginPage :41 - Clicking on Sign in Button[[ChromeDriver: chrome on WINDOWS (47c4d780a40e4c76ccef42e65398ef52)] -> xpath: //button[@id = 'signInSubmitButton']]
+2021-10-14 14:10:39 INFO  LoginPage :47 - Getting Error Message [[ChromeDriver: chrome on WINDOWS (47c4d780a40e4c76ccef42e65398ef52)] -> xpath: //div[@class='form-group top-margin-6']/child::app-validated-input[@name='username']/child::div/child::app-error-message]
+2021-10-14 14:10:378 INFO  BasePage :32 - Launching Chrome Browser 
+2021-10-14 14:10:912 INFO  LoginPage :60 - Clicking on Forgotten Password Link[[ChromeDriver: chrome on WINDOWS (d08fd8dfd3fb4aa8e0d4e66e4d363fb4)] -> xpath: //a[@id = 'forgotPasswordHref']]
+2021-10-14 14:10:103 INFO  ResetAcessPage :19 - Verifying Page Message[[ChromeDriver: chrome on WINDOWS (d08fd8dfd3fb4aa8e0d4e66e4d363fb4)] -> xpath: //p[@id = 'signInHeading']]
